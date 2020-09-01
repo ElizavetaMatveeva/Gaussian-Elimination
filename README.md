@@ -1,4 +1,4 @@
-# Gaussian-Elimination
+# gaussian-elimination
 Program for solving system of equations
 
 Gaussian elimination is a method for solving matrix equations of the form ax=b. 
